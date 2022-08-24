@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bianca Jatto
-- 👀 I’m an growing data analyst and SQL enthusiast from Nigeria  
-- 💞️ I use Excel,PowerBI for everything and currently learning python and open to collaboration
+- 👀 I’m a growing data analyst and SQL enthusiast from Nigeria  
+- 💞️ I use Excel, PowerBI for everything, currently learning python and open to collaborations
 - 📫 How to reach me on email jattobianca@gmail.com
 
 <!---
