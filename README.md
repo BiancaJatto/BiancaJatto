@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bianca Jatto
-- 👀 I’m a growing data analyst and SQL enthusiast from Nigeria  
-- 💞️ I use Excel, PowerBI for everything, currently learning python and open to collaborations
+- 👀 I’m a growing software tester and SQL enthusiast from Nigeria  
+- 💞️ I use Katalon, Postman, Jira currently learning Cypress and open to collaborations
 - 📫 How to reach me on email jattobianca@gmail.com
 
 <!---
