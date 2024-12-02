@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bianca Jatto
-- 👀 I’m a growing Software Tester and SQL enthusiast from Nigeria  
-- 💞️ I use Katalon,Postman,Jira, currently learning Cypress and open to collaborations
+- 👀 I’m a growing Data Analyst from Nigeria  
+- 💞️ I use MySQL,PowerBi,Tableau,MS Excel and open to collaborations
 - 📫 How to reach me on email jattobianca@gmail.com
 
 <!---
